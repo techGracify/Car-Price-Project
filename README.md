@@ -30,7 +30,7 @@ This analysis was done in Power Bi
 
 ### Results/Findings
 The analysis results/findings are summarized as follows:
-- The price of cars with some certain car types, engine size, fuel type, drivewheel, aspiration type etc tends to be high while the prices of some are low, thereby making our aspiring automobile manufacturing company (Geely Auto) understands which car type, engine size, fuel type, drivewheel, aspiration type etc they should manufacture more or less to be able to efficiently compete with the American Market.
+- The price of cars with some certain car types, engine size, fuel type, drivewheel, aspiration type etc tends to be high while the prices of some are low, thereby making our aspiring automobile manufacturing company understands which car type, engine size, fuel type, drivewheel, aspiration type etc they should manufacture more or less to be able to efficiently compete with the American Market.
 
 ### Recommendations
 Based on the analysis, I recommend the following action:

@@ -3,6 +3,9 @@
 ## Project Overview
 The aim of this project is to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. 
 
+
+![car price](https://github.com/user-attachments/assets/70734a6f-d42a-4ab1-bf50-83697e9d59c9)
+
 ### Data Sources
 Car Price Analysis: The primary dataset used for this analysis is the "Car-Price.csv" file, containing detailed information about each car variable and how the price varies with the independent variables.
 
